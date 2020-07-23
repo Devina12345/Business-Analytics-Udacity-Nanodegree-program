@@ -27,10 +27,15 @@ In this project, you’ll build interactive dashboards using Tableau and use the
 
 Instructors:
 Josh Bernhard - DATA SCIENTIST AT NERD WALLET Josh has been sharing his passion for data for nearly a decade at all levels of university, and as Lead Data Science Instructor at Galvanize. He's used data science for work ranging from cancer research to process automation.
+
 Dana Sheahan - CONTENT DEVELOPER Dana is an electrical engineer with a Masters in Computer Science from Georgia Tech. Her work experience includes software development for embedded systems in the Automotive Group at Motorola, where she was awarded a patent for an onboard operating system.
+
 Mat Leonard - INSTRUCTOR Mat is a former physicist, research neuroscientist, and data scientist. He did his PhD and Postdoctoral Fellowship at the University of California, Berkeley.
+
 Derek Steer - CEO AT MODE Derek is the CEO of Mode Analytics. He developed an analytical foundation at Facebook and Yammer and is passionate about sharing it with future analysts. He authored SQL School and is a mentor at Insight Data Science.
+
 Sam Nelson - PRODUCT LEAD Sam is the Product Lead for Udacity’s Data Analyst, Business Analyst, and Data Foundations programs. He’s worked as an analytics consultant on projects in several industries, and is passionate about helping others improve their data
+
 Technologies Used:
 Tableau
 SQL
