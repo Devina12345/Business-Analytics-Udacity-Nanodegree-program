@@ -6,6 +6,7 @@ To learn foundational data skills that apply across functions and industries. Le
 Created in collaboration with industry experts:
 
 Tableau Software
+
 Mode Analytics
 
 Program Curriculam:
